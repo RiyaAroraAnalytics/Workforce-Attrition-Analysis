@@ -3,9 +3,11 @@ Exploratory Data Analysis (EDA) and predictive modeling of employee attrition pa
 ##  Project Overview
 This project analyzes HR data to identify key factors driving employee attrition. The goal is to uncover patterns and insights that help organizations reduce turnover and improve retention strategies.
 
-##  Tools & Technologies
+## Tools & Technologies
 - *Excel* – Data cleaning and classification
+- *SQL* – Data querying and aggregation
 - *Tableau* – Interactive dashboards and visualizations
+- *Power BI* – Business intelligence and reporting
 - *Python* – Data processing and analysis
 
 ##  Key Areas of Analysis
